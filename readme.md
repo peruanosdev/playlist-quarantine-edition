@@ -18,6 +18,8 @@ No dejes de aprender y nunca pierdas la curiosidad! 💪
 
 Si tienes o puedes hacer un video que quieras compartir o crees que seria de interes para la comunidad, puedes subirlo a tu canal de youtube y compartir el enlace mediante un [issue en este repositorio](https://github.com/peruanosdev/playlist-quarantine-edition/issues) contando un poco sobre el tema que vas a tratar o por que consideras que seria contenido de interes.
 
+> Sino estas familiarizado con github o no sabes como crear un issue, puedes llenar [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfZhySZwHHGYA0HQp-cVglk7t2U6kNj4Zheg60nJDXkSdtDZw/viewform) y lo cargaremos por ti 
+
 ## ¿Hasta cuando puedo enviar mis videos?
 
 Se estaran recibiendo videos hasta el dia 22 de Marzo 23:59 GMT-5 , con el fin de poder elaborar un playlist en los proximos dias y este pueda estar disponible cuanto antes
