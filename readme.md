@@ -21,8 +21,12 @@ Se estaran recibiendo videos hasta el dia 22 de Marzo 23:59 GMT-5 , con el fin d
 
 Cualquier contenido que consideres sea de interes para la comunidad tecnologica sea especifica o transversal es bienvenida, el objetivo es brindar un abanico de posibilidades.
 
+
+
 <br/>
 <br/>
+<hr/>
+
 
 ### Principios:
 
