@@ -1,5 +1,7 @@
 # Playlist Quarantine Edition
 
+<br/>
+
 ## Hola!
 
 Queremos compartir con ustedes esta nueva iniciativa que nace como parte del trabajo conjunto de varias comunidades tecnologicas y programadores independientes, de habla hispana. Con el objetivo de crear contenido de interes tecnologico gratuito, para estos dias en los instamos a todos quedarse en sus casas. 
