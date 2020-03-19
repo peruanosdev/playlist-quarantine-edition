@@ -1,5 +1,5 @@
 ---
-name: Titulo de la charla
+name: Suma tu video
 about: Suma tu video a la iniciativa
 title: ''
 labels: ''
