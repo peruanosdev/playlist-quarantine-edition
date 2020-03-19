@@ -1,8 +1,8 @@
 # Playlist Quarantine Edition
 
-Hola!
+## Hola!
 
-Queremos compartir con ustedes iniciativa, que nace como parte del trabajo conjunto de varias comunidades tecnologicas y programadores independientes con el objetivo de crear contenido de interes tecnologico gratuito, para estos dias en los instamos a todos quedarse en sus casas. No dejes de aprender y nunca pierdas la curiosida! 💪
+Queremos compartir con ustedes esta nueva iniciativa que nace como parte del trabajo conjunto de varias comunidades tecnologicas y programadores independientes con el objetivo de crear contenido de interes tecnologico gratuito, para estos dias en los instamos a todos quedarse en sus casas. No dejes de aprender y nunca pierdas la curiosida! 💪
 
 Este contenido estara disponible como un playlist de youtube para que puedas revisar en cualquier momento, el cual estara disponible una vez finalice el periodo de recopilación de videos.
 
