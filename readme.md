@@ -11,7 +11,7 @@ Este contenido estara disponible como un playlist de youtube para que puedas rev
 
 ## ¿Como puedo contribuir? 
 
-Si tienes o quieres hacer un video que quieras compartir o crees que seria de interes para la comunidad, puedes subirlo a tu canal de youtube y compartir el enlace mediante un [issue en este repositorio](https://github.com/peruanosdev/playlist-quarantine-edition/issues) contando un poco sobre el tema que vas a tratar o por que consideras que seria contenido de interes.
+Si tienes o puedes hacer un video que quieras compartir o crees que seria de interes para la comunidad, puedes subirlo a tu canal de youtube y compartir el enlace mediante un [issue en este repositorio](https://github.com/peruanosdev/playlist-quarantine-edition/issues) contando un poco sobre el tema que vas a tratar o por que consideras que seria contenido de interes.
 
 ## ¿Hasta cuadno puedo enviar mis videos?
 
