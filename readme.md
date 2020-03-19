@@ -11,9 +11,14 @@ Este contenido estara disponible como un playlist de youtube para que puedas rev
 
 ## ¿Como puedo contribuir? 
 
-Si tienes o quieres hacer un video que quieras compartir o crees que seria de interes para la comunidad, puedes subirlo a tu canal de youtube y compartir el enlace mediante un issue en este repositorio contando un poco sobre el tema tratado.
+Si tienes o quieres hacer un video que quieras compartir o crees que seria de interes para la comunidad, puedes subirlo a tu canal de youtube y compartir el enlace mediante un [issue en este repositorio](https://github.com/peruanosdev/playlist-quarantine-edition/issues) contando un poco sobre el tema que vas a tratar.
 
 ## ¿Hasta cuadno puedo enviar mis videos?
 
-Se estaran recibiendo videos hasta el dia 22 de Marzo 23:59, con el fin de poder elaborar un playlist en los proximos dias.
+Se estaran recibiendo videos hasta el dia 22 de Marzo 23:59 GMT-5 , con el fin de poder elaborar un playlist en los proximos dias y este pueda estar disponible cuanto antes
+
+## ¿Cuales son los temas que puedo tratar?
+
+Cualquier contenido que consideres sea de interes para la comunidad tecnologica sea especifica o transversal es bienvenida, el objetivo es brindar un abanico de posibilidades.
+
 
