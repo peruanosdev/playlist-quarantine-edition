@@ -11,6 +11,8 @@ No dejes de aprender y nunca pierdas la curiosidad! 💪
 
 Este contenido estara disponible como un playlist de youtube para que puedas revisar en cualquier momento, el cual estara disponible una vez finalice el periodo de recopilación de videos.
 
+<br/>
+
 ## ¿Como puedo contribuir? 
 
 Si tienes o puedes hacer un video que quieras compartir o crees que seria de interes para la comunidad, puedes subirlo a tu canal de youtube y compartir el enlace mediante un [issue en este repositorio](https://github.com/peruanosdev/playlist-quarantine-edition/issues) contando un poco sobre el tema que vas a tratar o por que consideras que seria contenido de interes.
