@@ -8,6 +8,7 @@ Queremos compartir con ustedes esta nueva iniciativa que nace como parte del tra
 
 No dejes de aprender y nunca pierdas la curiosidad! 💪
 
+<br/>
 
 > Este contenido estara disponible como un playlist de youtube para que puedas revisar en cualquier momento, el cual estara disponible una vez finalice el periodo de recopilación de videos.
 
