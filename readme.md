@@ -21,4 +21,13 @@ Se estaran recibiendo videos hasta el dia 22 de Marzo 23:59 GMT-5 , con el fin d
 
 Cualquier contenido que consideres sea de interes para la comunidad tecnologica sea especifica o transversal es bienvenida, el objetivo es brindar un abanico de posibilidades.
 
+<br/>
+<br/>
+
+### Principios:
+
+1. Evitar contenido publicitario ya que la gratuidad de la iniciativa tiene como fin el compartir conocimiento y/o experiencias, no realizar promoción de algun producto o servicio.
+2. Evitar cualquier tipo de contenido que pueda considerarse ofensivo o discriminatorio.
+3. Los derechos del contenido pertenecen a su creador, por lo que pedimos que los videos sean cargados en sus cuentas personales, nosotros no subiremos videos a un canal propio.
+
 
