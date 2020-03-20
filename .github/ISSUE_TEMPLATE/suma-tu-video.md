@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-## Titulo de la charla 
+## Título de la charla 
 
-## Descripcion
+## Descripción
 
 ## Enlace del video ( YouTube )
