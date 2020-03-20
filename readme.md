@@ -51,7 +51,7 @@ Cualquier contenido que consideres sea de interes para la comunidad tecnologica 
 | ----------------------------------------- | :-: | :-----: | :---: | :-------: |
 | [Audacity](https://www.audacityteam.org/) | ✅  |   ✅    |  ✅   |    ✅     |
 
-#### Edición de imagenes
+#### Edición de imagen
 
 | Herramienta                                                         | Mac | Windows | Linux | Gratuita  |
 | ------------------------------------------------------------------- | :-: | :-----: | :---: | :-------: |
