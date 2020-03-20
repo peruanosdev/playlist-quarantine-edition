@@ -28,9 +28,11 @@ Se estaran recibiendo videos para el primer batch hasta el dia 22 de Marzo 23:59
 
 Cualquier contenido que consideres sea de interes para la comunidad tecnologica sea especifica o transversal es bienvenida, el objetivo es brindar un abanico de posibilidades.
 
-## Ok, quiero hacer un video, ¿Que herramientas podria usar?
+<br/>
 
-### Gratuitas 
+### Ok, quiero hacer un video, ¿Que herramientas podria usar?
+
+#### Gratuitas 
 
 | Edición de Video                | Captura de Pantalla      | Edición de Audio                 | Edición Fotografica          |
 |---------------------------------|--------------------------|----------------------------------|------------------------------|
@@ -38,7 +40,7 @@ Cualquier contenido que consideres sea de interes para la comunidad tecnologica 
 | ShotCut (_Mac, Windows, Linux_) | CamStudio (_Windows_)    |                                  |                              |
 |                                 |                          |                                  |                              |
 
-### De Pago
+#### De Pago
 
 | Edición de Video                | Captura de Pantalla       | Edición de Audio                | Edición Fotografica              |
 |---------------------------------|---------------------------|---------------------------------|----------------------------------|
