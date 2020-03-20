@@ -67,6 +67,7 @@ Cualquier contenido que consideres sea de interes para la comunidad tecnologica 
 | [Camtasia](https://www.techsmith.com/video-editor.html) | ✅  |   ✅    |       |          |
 | [Snagit](https://www.techsmith.com/screen-capture.html) | ✅  |   ✅    |       |          |
 | [Shutter](https://shutter-project.org/)                 |     |         |  ✅   |    ✅    |
+| [Asciinema](https://asciinema.org/) (Terminal)          | 🌐  |   🌐    |  🌐   |    ✅    |
 
 <br/>
 <br/>
