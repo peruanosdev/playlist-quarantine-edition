@@ -35,21 +35,38 @@ Cualquier contenido que consideres sea de interes para la comunidad tecnologica 
 
 ### Ok, quiero hacer un video, ¿Que herramientas podria usar?
 
-#### Gratuitas 
+#### Edición de video
 
-| Edición de Video                | Captura de Pantalla      | Edición de Audio                 | Edición Fotografica          |
-|---------------------------------|--------------------------|----------------------------------|------------------------------|
-| iMovie (_Mac_)                    | QuickTime (_Mac, Windows_) | Audacity (_Linux, Mac, Windows_) | Gimp (_Linux, Mac, Windows_) |
-| ShotCut (_Mac, Windows, Linux_) | CamStudio (_Windows_)    |                                  |                              |
-|                                 |                          |                                  |                              |
+| Herramienta                                                           | Mac | Windows | Linux | Gratuita  |
+| --------------------------------------------------------------------- | :-: | :-----: | :---: | :-------: |
+| [iMovie](https://www.apple.com/co/imovie/)                            | ✅  |         |       |    ✅     |
+| [ShotCut](https://shotcut.org/)                                       | ✅  |   ✅    |  ✅   |    ✅     |
+| [Adobe Premiere PRO](https://www.adobe.com/la/products/premiere.html) | ✅  |   ✅    |       |           |
+| [Final Cut](https://www.apple.com/la/final-cut-pro/)                  | ✅  |   ✅    |       |           |
+| [Camtasia](https://www.techsmith.com/video-editor.html)               | ✅  |   ✅    |       |           |
 
-#### De Pago
+#### Edición de audio
 
-| Edición de Video                | Captura de Pantalla       | Edición de Audio                | Edición Fotografica              |
-|---------------------------------|---------------------------|---------------------------------|----------------------------------|
-| Adobe Premiere (_Mac, Windows_) | Camtasia (_Mac, Windows_) | Adobe Audition (_Mac, Windows_) | Adobe Photoshop (_Mac, Windows_) |
-| Final Cut (_Mac, Windows_)      | Snagit (_Mac, Windows_)   |                                 |                                  |
-|                                 |                           |                                 |                                  |
+| Herramienta                               | Mac | Windows | Linux | Gratuitas |
+| ----------------------------------------- | :-: | :-----: | :---: | :-------: |
+| [Audacity](https://www.audacityteam.org/) | ✅  |   ✅    |  ✅   |    ✅     |
+
+#### Edición de imagenes
+
+| Herramienta                                                         | Mac | Windows | Linux | Gratuita  |
+| ------------------------------------------------------------------- | :-: | :-----: | :---: | :-------: |
+| [Gimp](https://www.gimp.org/)                                       | ✅  |   ✅    |  ✅   |    ✅     |
+| [Adobe Photoshop](https://www.adobe.com/es/products/photoshop.html) | ✅  |   ✅    |       |           |
+
+#### Captura y/o grabación de pantalla
+
+| Herramienta                                             | Mac | Windows | Linux | Gratuita |
+| ------------------------------------------------------- | :-: | :-----: | :---: | :------: |
+| [QuickTime](https://support.apple.com/quicktime)        | ✅  |   ✅    |       |    ✅    |
+| [CamStudio](https://camstudio.org/)                     |     |   ✅    |       |    ✅    |
+| [Camtasia](https://www.techsmith.com/video-editor.html) | ✅  |   ✅    |       |          |
+| [Snagit](https://www.techsmith.com/screen-capture.html) | ✅  |   ✅    |       |          |
+| [Shutter](https://shutter-project.org/)                 |     |         |  ✅   |    ✅    |
 
 <br/>
 <br/>
