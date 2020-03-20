@@ -28,7 +28,10 @@ Se estaran recibiendo videos para el primer batch hasta el dia 22 de Marzo 23:59
 
 Cualquier contenido que consideres sea de interes para la comunidad tecnologica sea especifica o transversal es bienvenida, el objetivo es brindar un abanico de posibilidades.
 
+
 <br/>
+
+<hr/>
 
 ### Ok, quiero hacer un video, ¿Que herramientas podria usar?
 
