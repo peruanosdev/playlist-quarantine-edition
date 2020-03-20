@@ -28,7 +28,23 @@ Se estaran recibiendo videos para el primer batch hasta el dia 22 de Marzo 23:59
 
 Cualquier contenido que consideres sea de interes para la comunidad tecnologica sea especifica o transversal es bienvenida, el objetivo es brindar un abanico de posibilidades.
 
+## Ok, quiero hacer un video, ¿Que herramientas podria usar?
 
+### Gratuitas 
+
+| Edición de Video                | Captura de Pantalla      | Edición de Audio                 | Edición Fotografica          |
+|---------------------------------|--------------------------|----------------------------------|------------------------------|
+| iMovie (_Mac_)                    | QuickTime (_Mac, Windows_) | Audacity (_Linux, Mac, Windows_) | Gimp (_Linux, Mac, Windows_) |
+| ShotCut (_Mac, Windows, Linux_) | CamStudio (_Windows_)    |                                  |                              |
+|                                 |                          |                                  |                              |
+
+### De Pago
+
+| Edición de Video                | Captura de Pantalla       | Edición de Audio                | Edición Fotografica              |
+|---------------------------------|---------------------------|---------------------------------|----------------------------------|
+| Adobe Premiere (_Mac, Windows_) | Camtasia (_Mac, Windows_) | Adobe Audition (_Mac, Windows_) | Adobe Photoshop (_Mac, Windows_) |
+| Final Cut (_Mac, Windows_)      | Snagit (_Mac, Windows_)   |                                 |                                  |
+|                                 |                           |                                 |                                  |
 
 <br/>
 <br/>
