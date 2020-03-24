@@ -10,7 +10,7 @@ No dejes de aprender y nunca pierdas la curiosidad! 💪
 
 <br/>
 
-> Este contenido estara disponible como un playlist de youtube para que puedas revisar en cualquier momento, el cual estara disponible una vez finalice el periodo de recopilación de videos.
+**Update:** 1er playlist https://www.youtube.com/playlist?list=PLE6H0aE8p3mErQScYuTpE4hu8wOjN8Gua
 
 <br/>
 
