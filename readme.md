@@ -12,7 +12,7 @@ No dejes de aprender y nunca pierdas la curiosidad! 💪
 
 **Update:** 
 
-- 1er playlist https://www.youtube.com/playlist?list=PLE6H0aE8p3mErQScYuTpE4hu8wOjN8Gua
+- 1er playlist 🚀 https://www.youtube.com/playlist?list=PLE6H0aE8p3mErQScYuTpE4hu8wOjN8Gua
 
 <br/>
 
