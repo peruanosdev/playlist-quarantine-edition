@@ -24,9 +24,6 @@ Si tienes o puedes hacer un video que quieras compartir o crees que seria de int
 
 > Sino estas familiarizado con github o no sabes como crear un issue, ¡No hay problema!, puedes llenar [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfZhySZwHHGYA0HQp-cVglk7t2U6kNj4Zheg60nJDXkSdtDZw/viewform) y lo crearemos por ti 👍. 
 
-## ¿Hasta cuando puedo enviar mis videos?
-
-Se estaran recibiendo videos para el primer batch hasta el dia 22 de Marzo 23:59 GMT-5 , con el fin de poder elaborar un playlist en los proximos dias y este pueda estar disponible cuanto antes
 
 ## ¿Cuales son los temas que puedo tratar?
 
